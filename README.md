@@ -1,31 +1,30 @@
-# Hi, I'm Candice! 👋
+# 👋 Hi, I'm Candice
 
-Welcome to my GitHub profile! I’m a **data analyst in training** with a focus on **healthcare data**. My goal is to transform raw data into insights that improve patient outcomes and healthcare systems.
+💡 *Curious about the ‘why’ in healthcare | Using data to improve care, outcomes, and understanding.*
 
-### 🌱 About Me:
-I don’t come from a traditional healthcare or analytics background, but I’ve always been fascinated by how things work and why they work. This curiosity led me to data analysis, where I can leverage data to make a real difference in the healthcare sector. I am passionate about using data to improve how care is delivered, how patients experience it, and how medical professionals make decisions.
+I’m a data analyst in training with a strong focus on healthcare.
 
-#### 🎯 My Mission:
-- Help turn data into actionable insights to enhance healthcare delivery and improve patient care.
-- Improve decision-making through data analysis and data-driven solutions.
-- Make complex data more accessible, digestible, and meaningful for all stakeholders.
+I don’t come from a traditional healthcare or analytics background, but I’ve always been interested in how things work and why they work. That naturally pulled me toward healthcare — because when you understand how systems impact people, especially in something as vital as health, you want to do better.
 
-### 🛠 Skills & Tools:
-- **Skills**: Data cleaning, analysis, visualisation, and reporting using Excel, SQL, Python, Power BI
-- **Healthcare Focus**: Improving systems, decision-making, and patient care through data
+I believe data has the power to improve how we deliver care, how patients experience it, and how medical professionals make decisions.
 
+My goal is to turn data into understanding so that care becomes more informed, systems work better, and patients feel seen.
 
-### 🚀 Current Projects:
-I’m working on several projects to build my portfolio, ranging from data cleaning and analysis to healthcare data visualisation and predictive modelling.
+---
 
-- **[]**: Data cleaning and analysis of a healthcare dataset.
-- **[]**: Exploring predictive models for patient outcomes.
+### 🔧 Skills & Tools (So Far)
+- **Data Cleaning**: Excel (formulas, Power Query), SQL
+- **Data Visualisation**: Power BI, beginner Tableau
+- **Data Documentation**: Audit logs, structured cleaning notes
+- **Healthcare Focus**: Building projects that explore care quality, outcomes, and patient journeys
+- **Learning**: SQL, Python (Pandas), Git/GitHub workflows, Power BI
 
-### 📬 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/)
-- [Email](mailto:)
+---
 
-- ---
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch for collaborations or any questions.
+### 📌 What You’ll Find Here
+This GitHub includes:
+- Data cleaning walkthroughs (Excel and SQL)
+- Beginner-friendly project folders with raw and cleaned data, analysis, and documentation
+- A growing collection of healthcare and public data projects
+- Learning-in-public milestones as I build toward a full healthcare analytics portfolio
 
